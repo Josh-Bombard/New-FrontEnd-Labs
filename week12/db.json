@@ -1,29 +1,24 @@
 {
   "studentRoster": [
     {
-      "fullName": "Ora Thiel",
-      "researchAssignment": "bear",
-      "id": "1"
+      "fullName": "New",
+      "researchAssignment": "Animal",
+      "id": 1
     },
     {
-      "fullName": "Tabitha Brown",
-      "researchAssignment": "rabbit",
-      "id": "2"
+      "fullName": "Work",
+      "researchAssignment": "",
+      "id": 2
     },
     {
-      "fullName": "Patti Fritsch",
-      "researchAssignment": "fish",
-      "id": "3"
+      "fullName": "New Person",
+      "researchAssignment": "",
+      "id": 3
     },
     {
-      "fullName": "Mr. Tyrone Ziemann II",
-      "researchAssignment": "cat",
-      "id": "4"
-    },
-    {
-      "fullName": "Tammy Kunde",
-      "researchAssignment": "bird",
-      "id": "5"
+      "fullName": "Josh Bombard",
+      "researchAssignment": "Basil",
+      "id": 4
     }
   ]
 }
